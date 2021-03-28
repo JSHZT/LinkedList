@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\studiowork\duLinkedList\duLinkedList\main.cpp(5,9): warning C4101: “e”: 未引用的局部变量
+D:\studiowork\duLinkedList\duLinkedList\main.cpp(11,11): warning C4101: “value1”: 未引用的局部变量
+  duLinkedList.vcxproj -> D:\studiowork\duLinkedList\Debug\duLinkedList.exe
